@@ -1,2 +1,3 @@
 # PythonPracticeProjects
- Python
+ This repository has some of the Python Projects I have worked on.
+ 
